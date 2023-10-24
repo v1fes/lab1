@@ -38,3 +38,4 @@
 Документація з використання Git розміщена за [посиланням](https://docs.google.com/document/d/1ZORK2VQu9_BK-XebQ9fhZiywF0c_btD6wcsddDJmbYA/edit).
 
 Виконав: **_Фесенко Вікторія_**
+Електронна адреса: **_vt221_fvv@student.ztu.edu.ua_**
